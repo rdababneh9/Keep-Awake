@@ -1,0 +1,29 @@
+Keep-Awake
+A program to prevent your computer from going into "AFK" (Away From Keyboard) mode.
+
+Features
+Keeps your cursor moving to prevent your computer from going into idle state.
+Configurable interval time for cursor movement.
+Simple and easy to use interface.
+
+Requirements
+Windows 7 or later.
+.NET Framework 4.0 or later.
+
+Installation
+Download the latest version of Keep-Awake from the releases section.
+Run the installer and follow the on-screen instructions.
+Once the installation is complete, launch Keep-Awake from the Start menu.
+
+Usage
+Adjust the interval time using the slider in the main function (default is 5 seconds / time.sleep(5).
+Click the "Start" button to activate the cursor movement.
+The program will keep your cursor moving every 5 seconds (or the interval time you set) to prevent your computer from going into idle state.
+Click the "Stop" button to deactivate the cursor movement.
+
+Note
+Keep-Awake is designed to keep your computer from going into idle state and does not guarantee that it will prevent your computer from locking or sleeping.
+If you set the interval to a small number, you will find it more difficult to click the stop button.
+
+Feedback
+If you have any feedback or suggestions, please open an issue on the GitHub repository or send an email to [email address].
